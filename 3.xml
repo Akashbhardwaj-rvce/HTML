@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+	<Students>
+		<student>
+			<name>Anup</name>
+			<usn> mca001</usn>
+			<year> 2021</year>
+			<subject> Wap</subject>
+		</student>
+	
+		
+		<student>
+			<name>Bhargava</name>
+			<usn>mca002</usn>
+			<year>2021</year>
+			<subject> Mat</subject>
+		</student>
+		
+		
+		<student>
+			<name>Som</name>
+			<usn>mca003</usn>
+			<year>2021</year>
+			<subject>Cn</subject>
+		</student>
+	</Students>
+			
